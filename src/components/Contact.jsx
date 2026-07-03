@@ -7,7 +7,7 @@ import { GithubIcon, LinkedinIcon } from "@/components/BrandIcons";
 import { PERSONAL_INFO } from "@/lib/constants";
 
 // Formspree Endpoint placeholder - User can replace "YOUR_FORM_ID" with their actual ID
-const FORMSPREE_ENDPOINT = "https://formspree.io/f/xqkgnpzo"; 
+const FORMSPREE_ENDPOINT = "https://formspree.io/f/maqgaeyo"; 
 
 export default function Contact() {
   const [formData, setFormData] = useState({
